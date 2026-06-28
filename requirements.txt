@@ -1,0 +1,16 @@
+pysqlite3-binary
+openai>=1.30.0
+ragas>=0.3.3
+langchain>=0.2.10 # need version of langchin
+langchain-community>=0.3.0
+langchain-openai>=0.1.25
+pandas>=2.2.3
+streamlit==1.56.0
+chromadb==1.5.7
+numpy>=2.1.0 # python 3.13 requires numpy >= 2 
+# dependencies for BlueScore
+sacrebleu
+# dependencies for RougeScore
+rouge-score 
+nltk
+absl-py 

@@ -1,0 +1,14 @@
+2026-06-28 03:11:05,562 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 03:11:05,678 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 03:11:06,180 - INFO - available collections: []
+2026-06-28 03:11:07,590 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 03:11:07,599 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 03:11:07,610 - INFO - available collections: []
+2026-06-28 03:13:03,471 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 03:13:03,471 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 03:13:52,267 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 03:13:52,507 - WARNING - LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+2026-06-28 03:13:53,545 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 03:13:53,953 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 03:13:54,153 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 03:13:54,962 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
