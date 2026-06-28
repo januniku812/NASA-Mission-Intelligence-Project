@@ -4,9 +4,9 @@
 
 1. Download the project and open in terminal.
 2. Make sure that are no preexisting chroma db backends (rm -rf ./chroma_db and rm -rf ./chroma_db_openai) 
-3. Run python embedding_pipeline.py --openai-key [explicit OPENAI API KEY string or environment variable reference] --update-mode add 
+3. Run python embedding_pipeline.py --openai-key [explicit OPENAI API KEY string or environment variable reference] --update-mode add  (all other argument parser values have defaults if not explicitly set)
 4. Once ChromaDB is successfully established via step 3, run streamlit run chat.py 
-5. To evaluate model via batch evaluation from the test_questions.json file, run python ragas_evaluator.py --test-questions-mission-category [apollo11/apollo13/challenger]
+5. To evaluate model via batch evaluation from the test_questions.json file, run python ragas_evaluator.py --test-questions-mission-category [apollo11/apollo13/challenger] (all other argument parser values have defaults if not explicitly set) 
 
 **In-depth Project Overview** 
 
