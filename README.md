@@ -1,5 +1,15 @@
 # NASA RAG Chat Project - Student Learning Version
 
+**Note - Quick steps to run**
+
+1. Download the project and open in terminal.
+2. Make sure that are no preexisting chroma db backends (rm -rf ./chroma_db and rm -rf ./chroma_db_openai) 
+3. Run python embedding_pipeline.py --openai-key [explicit OPENAI API KEY string or environment variable reference] --update-mode add 
+4. Once ChromaDB is successfully established via step 3, run streamlit run chat.py 
+5. To evaluate model via batch evaluation from the test_questions.json file, run python ragas_evaluator.py --test-questions-mission-category [apollo11/apollo13/challenger]
+
+**In-depth Project Overview** 
+
 A hands-on learning project for building a Retrieval-Augmented Generation (RAG) system with real-time evaluation capabilities. This project teaches students to create a complete RAG pipeline from document processing to interactive chat interface.
 
 ## 🎯 Learning Objectives
