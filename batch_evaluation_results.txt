@@ -1,0 +1,56 @@
+
+------------------------------------------------
+Summary - Question 1: Who were the crew members aboard the Apollo 11 mission?
+Context Precision Score: 0.99999999995
+Context Recall Score: 1.0
+Answer Similarity Score: 0.89859952790345
+Bleu Score: 0.7016879391277372
+Rouge score: 0.7016879391277372
+------------------------------------------------
+
+
+------------------------------------------------
+Summary - Question 2: What was the main goal of the Apollo 11 mission?
+Context Precision Score: 0.9999999999666667
+Context Recall Score: 1.0
+Answer Similarity Score: 0.8941825730435203
+Bleu Score: 0.468801165521092
+Rouge score: 0.468801165521092
+------------------------------------------------
+
+
+------------------------------------------------
+Summary - Question 3: What were major spacecraft components used in the Apollo 11 mission and what were their respective purposes?
+Context Precision Score: 0.0
+Context Recall Score: 1.0
+Answer Similarity Score: 0.8179208652510068
+Bleu Score: 0.03767258604549248
+Rouge score: 0.03767258604549248
+------------------------------------------------
+
+
+------------------------------------------------
+Summary - Question 4: What was the launch time of the Apollo 11 mission?
+Context Precision Score: 0.3333333333
+Context Recall Score: 1.0
+Answer Similarity Score: 0.8780225336046168
+Bleu Score: 0.5875766810867468
+Rouge score: 0.5875766810867468
+------------------------------------------------
+
+
+------------------------------------------------
+Summary - Question 5: What happened in lunar descent computer overload?
+Context Precision Score: 0.3333333333
+Context Recall Score: 0.0
+Answer Similarity Score: 0.7130838702874849
+Bleu Score: 0.04786230495657387
+Rouge score: 0.04786230495657387
+------------------------------------------------
+
+
+Metric: Context_Precision | Average Score: 0.5333333333033334
+Metric: Context_Recall | Average Score: 0.8
+Metric: Answer_Similarity | Average Score: 0.8403618740180157
+Metric: Bleu_Score | Average Score: 0.3687201353475285
+Metric: Rouge_Score | Average Score: 0.3687201353475285
