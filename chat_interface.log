@@ -1,0 +1,297 @@
+2026-06-27 21:52:04,355 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 21:52:04,355 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 21:52:04,882 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 21:52:04,882 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 21:52:08,914 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-27 21:52:09,035 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-27 21:52:09,582 - INFO - available collections: []
+2026-06-27 21:52:11,614 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 21:52:11,614 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 21:52:11,617 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-27 21:52:11,625 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-27 21:52:11,637 - INFO - available collections: []
+2026-06-27 21:52:15,866 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 21:52:15,866 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 21:52:15,869 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-27 21:52:15,877 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-27 21:52:15,888 - INFO - available collections: []
+2026-06-27 21:52:15,947 - INFO - Retrieval failed for query: tell me about the apollo 11 mission mission filter: None
+2026-06-27 21:53:32,899 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 21:53:32,899 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 21:53:33,400 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 21:53:33,401 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 21:53:37,410 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-27 21:53:37,523 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-27 21:53:37,997 - INFO - available collections: []
+2026-06-27 21:54:10,333 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 21:54:10,333 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 21:54:10,336 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-27 21:54:10,344 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-27 21:54:10,357 - INFO - available collections: []
+2026-06-27 21:54:10,413 - INFO - Retrieval failed for query: tell me about the challenger mission mission filter: None
+2026-06-27 21:54:25,263 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 21:54:25,264 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 21:54:25,778 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 21:54:25,778 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 21:54:29,909 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-27 21:54:30,022 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-27 21:54:30,522 - INFO - available collections: []
+2026-06-27 21:54:37,863 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 21:54:37,864 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 21:54:37,866 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-27 21:54:37,874 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-27 21:54:37,887 - INFO - available collections: []
+2026-06-27 21:54:37,942 - INFO - Retrieval failed for query: tell me 6 key facts about the challenger mission mission filter: None
+2026-06-27 21:58:46,176 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 21:58:46,177 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 21:58:46,709 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 21:58:46,710 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 21:58:50,813 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-27 21:58:50,927 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-27 21:58:51,483 - INFO - available collections: []
+2026-06-27 21:58:58,943 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 21:58:58,943 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 21:58:58,946 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-27 21:58:58,954 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-27 21:58:58,968 - INFO - available collections: []
+2026-06-27 21:58:59,033 - INFO - Retrieval failed for query: tell me about the challenger mission mission filter: None
+2026-06-27 22:01:24,037 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 22:01:24,037 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 22:01:24,572 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 22:01:24,572 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 22:01:28,635 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-27 22:01:28,750 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-27 22:01:29,235 - INFO - available collections: []
+2026-06-27 22:01:34,507 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 22:01:34,507 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 22:01:34,510 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-27 22:01:34,520 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-27 22:01:34,533 - INFO - available collections: []
+2026-06-27 22:01:36,129 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-27 22:01:38,370 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-27 22:01:40,544 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-27 22:01:41,006 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-27 22:01:41,026 - WARNING - LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+2026-06-27 22:01:41,038 - ERROR - Exception raised in Job[1]: AttributeError('OpenAIEmbeddings' object has no attribute 'embed_query')
+2026-06-27 22:01:45,778 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-27 22:01:46,469 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 22:01:46,469 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 22:01:46,473 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-27 22:01:46,482 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-27 22:01:46,494 - INFO - available collections: []
+2026-06-27 22:12:06,560 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 22:12:06,560 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 22:12:07,089 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 22:12:07,089 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 22:12:11,111 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-27 22:12:11,242 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-27 22:12:11,804 - INFO - available collections: []
+2026-06-27 22:12:19,249 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 22:12:19,249 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 22:12:19,252 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-27 22:12:19,260 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-27 22:12:19,274 - INFO - available collections: []
+2026-06-27 22:12:26,276 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 22:12:26,277 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 22:12:26,280 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-27 22:12:26,288 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-27 22:12:26,300 - INFO - available collections: []
+2026-06-27 22:12:26,904 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-27 22:12:28,665 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-27 22:12:29,163 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 22:12:29,163 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 22:12:29,167 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-27 22:12:29,175 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-27 22:12:29,186 - INFO - available collections: []
+2026-06-27 22:15:46,082 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 22:15:46,083 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 22:15:46,621 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-27 22:15:46,621 - INFO - langchain_community.llms mock module successfully injected
+2026-06-27 22:15:50,556 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-27 22:15:50,669 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-27 22:15:51,163 - INFO - available collections: []
+2026-06-28 02:55:17,634 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 02:55:17,634 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 02:55:18,220 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 02:55:18,220 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 02:55:22,450 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 02:55:22,562 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 02:55:23,046 - INFO - available collections: []
+2026-06-28 02:55:32,398 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 02:55:32,399 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 02:55:32,402 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 02:55:32,410 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 02:55:32,423 - INFO - available collections: []
+2026-06-28 02:55:33,034 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+2026-06-28 02:55:33,035 - INFO - [get_embedding] function received embedding error for text: tell me about the challenger mission
+2026-06-28 02:55:33,038 - INFO - Retrieval failed for query: tell me about the challenger mission mission filter: None
+2026-06-28 02:57:17,290 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 02:57:17,290 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 02:57:17,819 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 02:57:17,819 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 02:57:21,910 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 02:57:22,025 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 02:57:22,524 - INFO - available collections: []
+2026-06-28 02:57:57,066 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 02:57:57,067 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 02:57:57,070 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 02:57:57,079 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 02:57:57,093 - INFO - available collections: []
+2026-06-28 02:57:58,935 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 02:58:00,150 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:58:01,449 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:58:01,673 - WARNING - LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+2026-06-28 02:58:02,774 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 02:58:03,585 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 02:58:03,604 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:58:05,332 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:58:06,035 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 02:58:06,035 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 02:58:06,039 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 02:58:06,047 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 02:58:06,059 - INFO - available collections: []
+2026-06-28 02:58:31,441 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 02:58:31,442 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 02:58:31,445 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 02:58:31,453 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 02:58:31,463 - INFO - available collections: []
+2026-06-28 02:58:31,709 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 02:58:32,872 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:58:33,947 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:58:33,965 - WARNING - LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+2026-06-28 02:58:34,193 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 02:58:34,375 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 02:58:34,554 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:58:37,495 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:58:38,177 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 02:58:38,177 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 02:58:38,181 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 02:58:38,189 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 02:58:38,201 - INFO - available collections: []
+2026-06-28 02:59:10,310 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 02:59:10,310 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 02:59:10,313 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 02:59:10,321 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 02:59:10,333 - INFO - available collections: []
+2026-06-28 02:59:10,670 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 02:59:11,525 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:59:12,617 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:59:12,773 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:59:12,793 - WARNING - LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+2026-06-28 02:59:13,369 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 02:59:13,533 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 02:59:13,986 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:59:14,688 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 02:59:14,689 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 02:59:14,693 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 02:59:14,701 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 02:59:14,712 - INFO - available collections: []
+2026-06-28 02:59:21,442 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 02:59:21,443 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 02:59:21,446 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 02:59:21,454 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 02:59:21,465 - INFO - available collections: []
+2026-06-28 02:59:29,877 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 02:59:29,877 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 02:59:29,880 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 02:59:29,888 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 02:59:29,898 - INFO - available collections: []
+2026-06-28 02:59:30,144 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 02:59:30,913 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:59:32,008 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:59:32,022 - WARNING - LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+2026-06-28 02:59:32,223 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 02:59:32,543 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 02:59:32,723 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:59:34,178 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:59:34,724 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 02:59:34,725 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 02:59:34,729 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 02:59:34,740 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 02:59:34,754 - INFO - available collections: []
+2026-06-28 02:59:49,678 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 02:59:49,679 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 02:59:49,682 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 02:59:49,691 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 02:59:49,702 - INFO - available collections: []
+2026-06-28 02:59:49,923 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 02:59:50,640 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:59:51,649 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:59:51,667 - WARNING - LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+2026-06-28 02:59:51,883 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 02:59:52,433 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 02:59:52,448 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:59:53,931 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 02:59:54,595 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 02:59:54,595 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 02:59:54,598 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 02:59:54,606 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 02:59:54,617 - INFO - available collections: []
+2026-06-28 03:00:46,770 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 03:00:46,770 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 03:00:47,266 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 03:00:47,267 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 03:00:51,474 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 03:00:51,589 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 03:00:52,094 - INFO - available collections: []
+2026-06-28 03:01:06,305 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 03:01:06,306 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 03:01:06,309 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 03:01:06,317 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 03:01:06,330 - INFO - available collections: []
+2026-06-28 03:01:07,004 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 03:01:08,008 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 03:01:09,167 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 03:01:09,185 - WARNING - LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+2026-06-28 03:01:09,550 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 03:01:10,095 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 03:01:10,110 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 03:01:12,577 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 03:01:13,272 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 03:01:13,273 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 03:01:13,277 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 03:01:13,287 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 03:01:13,299 - INFO - available collections: []
+2026-06-28 03:02:47,233 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 03:02:47,233 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 03:02:47,811 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 03:02:47,811 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 03:02:51,912 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 03:02:52,026 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 03:02:52,584 - INFO - available collections: []
+2026-06-28 03:03:00,375 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 03:03:00,376 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 03:03:00,380 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 03:03:00,389 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 03:03:00,403 - INFO - available collections: []
+2026-06-28 03:03:01,023 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 03:03:01,985 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 03:03:03,396 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 03:03:03,847 - WARNING - LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+2026-06-28 03:03:04,210 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 03:03:04,408 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 03:03:04,424 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 03:03:07,368 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 03:03:08,094 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 03:03:08,094 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 03:03:08,099 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 03:03:08,109 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 03:03:08,121 - INFO - available collections: []
+2026-06-28 03:04:07,284 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 03:04:07,285 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 03:04:07,288 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 03:04:07,296 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 03:04:07,307 - INFO - available collections: []
+2026-06-28 03:04:07,509 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 03:04:08,429 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 03:04:09,599 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 03:04:09,620 - WARNING - LLM returned 1 generations instead of requested 3. Proceeding with 1 generations.
+2026-06-28 03:04:09,915 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 03:04:10,238 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-06-28 03:04:10,439 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 03:04:12,284 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-06-28 03:04:12,940 - INFO - langchain_community.chat_models.vertexai mock module successfully injected
+2026-06-28 03:04:12,941 - INFO - langchain_community.llms mock module successfully injected
+2026-06-28 03:04:12,944 - INFO - Step 2. Chroma Directories established [PosixPath('chroma_db_openai'), PosixPath('chroma_db')] ✅
+2026-06-28 03:04:12,953 - INFO - available collections: [Collection(name=challenger), Collection(name=apollo13), Collection(name=apollo11)]
+2026-06-28 03:04:12,965 - INFO - available collections: []
