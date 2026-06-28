@@ -1,0 +1,16 @@
+{
+    "per-question": [
+        "\n------------------------------------------------\nSummary - Question 1: Who were the crew members aboard the Apollo 11 mission?\nContext Precision Score: 0.99999999995\nContext Recall Score: 1.0\nAnswer Similarity Score: 0.89859952790345\nBleu Score: 0.7016879391277372\nRouge score: 0.7016879391277372\n------------------------------------------------\n\n",
+        "\n------------------------------------------------\nSummary - Question 2: What was the main goal of the Apollo 11 mission?\nContext Precision Score: 0.9999999999666667\nContext Recall Score: 1.0\nAnswer Similarity Score: 0.8941825730435203\nBleu Score: 0.468801165521092\nRouge score: 0.468801165521092\n------------------------------------------------\n\n",
+        "\n------------------------------------------------\nSummary - Question 3: What were major spacecraft components used in the Apollo 11 mission and what were their respective purposes?\nContext Precision Score: 0.0\nContext Recall Score: 1.0\nAnswer Similarity Score: 0.8179208652510068\nBleu Score: 0.03767258604549248\nRouge score: 0.03767258604549248\n------------------------------------------------\n\n",
+        "\n------------------------------------------------\nSummary - Question 4: What was the launch time of the Apollo 11 mission?\nContext Precision Score: 0.3333333333\nContext Recall Score: 1.0\nAnswer Similarity Score: 0.8780225336046168\nBleu Score: 0.5875766810867468\nRouge score: 0.5875766810867468\n------------------------------------------------\n\n",
+        "\n------------------------------------------------\nSummary - Question 5: What happened in lunar descent computer overload?\nContext Precision Score: 0.3333333333\nContext Recall Score: 0.0\nAnswer Similarity Score: 0.7130838702874849\nBleu Score: 0.04786230495657387\nRouge score: 0.04786230495657387\n------------------------------------------------\n\n"
+    ],
+    "per-metric": [
+        "\nMetric: Context_Precision | Average Score: 0.5333333333033334",
+        "\nMetric: Context_Recall | Average Score: 0.8",
+        "\nMetric: Answer_Similarity | Average Score: 0.8403618740180157",
+        "\nMetric: Bleu_Score | Average Score: 0.3687201353475285",
+        "\nMetric: Rouge_Score | Average Score: 0.3687201353475285"
+    ]
+}
