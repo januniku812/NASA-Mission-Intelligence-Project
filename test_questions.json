@@ -1,0 +1,83 @@
+{
+"apollo11": [
+        {
+            "test_question":"Who were the crew members aboard the Apollo 11 mission?",
+            "category":"crew",
+            "expected_answer":"The crew members of the Apollo 11 mission were Neil A. Armstrong, Michael Collins, Edwin E. (Buzz) Aldrin, Jr." 
+        },
+        {
+            "test_question":"What was the main goal of the Apollo 11 mission?",
+            "category":"overview",
+            "expected_answer":"The main goal of the Apollo 11 mission was to land men on the lunar surface and to return them safely to earth." 
+        },
+        {
+            "test_question":"What were major spacecraft components used in the Apollo 11 mission and what were their respective purposes?",
+            "category":"technical",
+            "expected_answer":"The main two spacecraft components used in the Apollo 11 mission were the Command and Service Module (CSM), which carried all three astronauts to lunar orbit and served as living quarters, and the Lunar Module (LM), carried astronauts Neil Armstrong and Buzz Aldrin down to the lunar surface." 
+        },
+        {
+            "test_question":"What was the launch time of the Apollo 11 mission?",
+            "category":"timeline",
+            "expected_answer":"The Apollo 11 mission was launched on July 16, 1969 at 9:32 AM EDT"  
+        },
+        {
+            "test_question":"What happened in lunar descent computer overload?",
+            "category":"disaster analysis",
+            "expected_answer":"During the lunar descent of the Apollo 11 mission, the Lunar Module's guidance computer was overwhelmed by an accumulation of data from rendezvous radar data left in the wrong mode." 
+        }
+    ],
+    "apollo13": [
+        {
+            "test_question":"Who was the commander of the Apollo 13 mission?",
+            "category":"crew",
+            "expected_answer":"The commander of the Apollo 13 mission was Jim Lovell" 
+        },
+        {
+            "test_question":"When (what dates) was the Apollo 13 mission flown?",
+            "category":"overview",
+            "expected_answer": "The Apollo 13 mission was flown April 11 to 17, 1970." 
+        },
+        {
+            "test_question":"Where were the communications of the Apollo 13 flight recorded?",
+            "category":"technical",
+            "expected_answer":"The communications of the Apollo 13 flight were recoreded on the command module (CM) data storage equipment (DSE)." 
+        },
+        {
+            "test_question":"What was the launch time of the Apollo 13 mission?",
+            "category":"timeline",
+            "expected_answer":"The Apollo 11 mission was launched on April 11, 1970 at 1:13 EST"  
+        },
+        {
+            "test_question":"What was the disaster faced in the Apollo 13 mission",
+            "category":"disaster analysis",
+            "expected_answer":"During the Apollo 13 mission, an explosion in oxygen tank number two crippled the spacecraft's primary service module and forced three astronauts to abandon their lunar landing." 
+        }
+    ],
+    "challenger": [
+        {
+            "test_question":"How many crew members were aboard the Challenger STS-51L?",
+            "category":"crew",
+            "expected_answer":"7 crew members were aboard the Challenger STS-51L?" 
+        },
+        {
+            "test_question":"What was the main concern 20 minutes before the Challenger STS-51L launch?",
+            "category":"overview",
+            "expected_answer":"The main concern 20 minutes before the Challenger STS-51L launch was the crosswind component which compromised RTLS." 
+        },
+        {
+            "test_question":"What caused the Challenger STS-51L disaster?",
+            "category":"disaster analysis",
+            "expected_answer":"The Challenger STS-51L disaster was caused by failure of the primary and secondary rubber O-ring seals on the right Solid Rocket Booster (SRB)" 
+        },
+        {
+            "test_question":"What was the launch time of the Challenger STS-51L mission?",
+            "category":"timeline",
+            "expected_answer":"The Challenger STS-51L mission was launched on January 28, 1986 on 11:38 AM EST."  
+        },
+        {
+            "test_question":"What was the temperature at the liftoff of the Challenger STS-51L mission?",
+            "category":"technical",
+            "expected_answer":"The temperature at liftoff of the Challenger STS-51L mission was 36 degrees Farhenheit/26 degrees Celsius" 
+        }
+    ]
+}
